@@ -1,0 +1,2 @@
+## About the Project
+This is my Machine Learning project as a submission for Machine Learning bootcamp that I have done. It is a simple application to decide whether the input image is rock, paper, or scissors. This project uses Python with Tensorflow. It also uses Convolutional Neural Network algorithm and Keras Sequential.
